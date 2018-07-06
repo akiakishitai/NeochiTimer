@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <VersionPrefix>0.1.0</VersionPrefix>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>akiakishitai</Authors>
+    <Copyright>Copyright (c) 2018 akiakishitai</Copyright>
+    <PackageVersion>0.1.0</PackageVersion>
+  </PropertyGroup>
+
+</Project>
